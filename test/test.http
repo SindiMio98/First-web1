@@ -10,7 +10,7 @@ Content-Type: application/json
 
 {
     "name": "Hello World",
-    "description": "Heewlloo"
+    "description": "Hi"
 }
 
 ### Update Todo by ID
@@ -19,7 +19,7 @@ Content-Type: application/json
 
 {
     "name": "Hello World",
-    "description": "Heewlloo"
+    "description": "Hi"
 }
 
 ### Delete Todo by ID
